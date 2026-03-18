@@ -1,5 +1,5 @@
 📋 API de Cadastro - Spring Boot
-📖 Descrição
+📖 
 A API de Cadastro é um serviço RESTful desenvolvido em Spring Boot que permite gerenciar usuários em um sistema.
 Ela oferece endpoints para criação, leitura, atualização e exclusão (CRUD) de registros, com suporte a validações e persistência em banco de dados relacional.
 
